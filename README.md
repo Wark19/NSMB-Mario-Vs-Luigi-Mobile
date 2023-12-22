@@ -6,7 +6,6 @@ An adaptation of [MarioVsLuigi](https://github.com/ipodtouch0218/NSMB-MarioVsLui
 - Being able to connect to the official lobbies.
 - Touch screen adapted controls.
 - Compatible from Android 5.1 to Android 14 
-- Fixing the lobby chat.
 - The ability to disable touch controls at will.
 
 ## Planed features for future updates
